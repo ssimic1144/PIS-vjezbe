@@ -39,13 +39,13 @@ Sastoji se od **key:value** parova
 
 ```json
 {
-    id:1234
-    proizvod:"jabuka"
-    cijena:5
-    dostava:{
-            kupac:"John Smith"
-            adresa:"Rovinjska 14"
-            grad:"Pula"
+    "id":1234,
+    "proizvod":"jabuka",
+    "cijena":5,
+    "dostava":{
+            "kupac":"John Smith",
+            "adresa":"Rovinjska 14",
+            "grad":"Pula"
         }
 }
 ```
