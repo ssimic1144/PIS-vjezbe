@@ -6,7 +6,7 @@ subtitle:
 author: 
 - Srđan Daniel Simić
 date: 
-- 16.03.2022.
+- 30.03.2022.
 theme:
 - Copenhagen
 
