@@ -21,8 +21,7 @@ Web servis tipa : čisti TODO app
 
 - Kreiranje **smislenog** *front-end* dijela - **isključivo** HTML i CSS
 - Kreiranje više **smislenih** i **povezanih** web servisa
-- TBA
-- TBA
+- Kreiranje vizualizacije podataka na *front-end-u*
 
 # Uvjeti za **pad** (ocjena = 0%)
 
@@ -31,6 +30,8 @@ Web servis tipa : čisti TODO app
 - Ne znanje što radi, čemu služi ili što je određeni programski kod koji se nalazi u vašem projektnom repozitoriju 
 - Ne znanje **naj osnovnijih** stvari koje su se prolazile kroz vježbe
     - npr. **naj osnovnije** git naredbe
+- Loše *handlanje* senzitivnih podataka u bazi
+    - npr. user tablica za login
 
 # Projekt za tim (max 2 osobe)
 
