@@ -72,3 +72,7 @@ const chart = new Chart(ctx, config)
 ## VAŽNO!
 
 {{varijabla**|safe**}}
+
+# Primjeri
+
+Kod s primjerima se nalazi na github-u
