@@ -30,7 +30,7 @@ Potreban je alat za orkestraciju konteinera (planiranje/upravljanje konteinerima
 
 # Osnovna arhitektura 
 
-![](11/imgs/img1.png)
+![](imgs/img1.png)
 *Preuzeto iz Unix and Linux System Administration Handbook*
 
 # Prednosti alata za orekstraciju
@@ -70,5 +70,5 @@ i autoskaliranje *pod-ova*
 
 # Arhitektura Kubernetes-a
 
-![](11/imgs/img2.jpeg)
+![](imgs/img2.jpeg)
 *Preuzeto s [Web-a](https://architecture-database.blogspot.com/2019/04/basic-concepts-of-kubernetes.html)*
